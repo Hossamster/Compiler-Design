@@ -1,5 +1,5 @@
 # Compiler-Design
-##Tiny Compiler 
+## Tiny Compiler 
 
 ### Description 
 A TinyL compiler consists mainly of two phases:
@@ -17,10 +17,10 @@ It is a discovering structure phase in the code which determines whether a text 
 - Construct a hierarchical structure which is known as a parse tree.
 
 ### Developers
-- ** Hossam Hassan 180871**
-- ** Abdallah Hesham 179674**
-- ** Mostafa Mahfouz 182004**
-- ** Mirna Victor 190860**
+- **Hossam Hassan 180871**
+- **Abdallah Hesham 179674**
+- **Mostafa Mahfouz 182004**
+- **Mirna Victor 190860**
 
 ### Snapshots
 ![image](https://user-images.githubusercontent.com/42946298/148419743-d307cac5-b0e8-4853-b313-acba8fb541a9.png)
