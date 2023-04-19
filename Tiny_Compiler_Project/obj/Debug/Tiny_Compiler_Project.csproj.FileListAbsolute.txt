@@ -1,0 +1,42 @@
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.exe.config
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.exe
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.pdb
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.AssemblyReference.cache
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.SuggestedBindingRedirects.cache
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.Form1.resources
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.Properties.Resources.resources
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.GenerateResource.cache
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.CoreCompileInputs.cache
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.exe
+D:\FCIS2024\3rd year\Compiler Theory\project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.pdb
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.exe.config
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.exe
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.pdb
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.AssemblyReference.cache
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.SuggestedBindingRedirects.cache
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.Form1.resources
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.Properties.Resources.resources
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.GenerateResource.cache
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.CoreCompileInputs.cache
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.exe
+D:\FCIS2024\3rd year\Compiler Theory\2022_TINY_Compiler_Project\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.pdb
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.exe.config
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.exe
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.pdb
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.AssemblyReference.cache
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.Form1.resources
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.Properties.Resources.resources
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.GenerateResource.cache
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.CoreCompileInputs.cache
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.exe
+C:\Users\Jana\Desktop\[2021-2022] TINY_Compiler_Project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.pdb
+D:\compiler project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.Form1.resources
+D:\compiler project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.Properties.Resources.resources
+D:\compiler project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.GenerateResource.cache
+D:\compiler project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.CoreCompileInputs.cache
+D:\compiler project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.exe
+D:\compiler project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.pdb
+D:\compiler project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.exe.config
+D:\compiler project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.exe
+D:\compiler project\Tiny_Compiler_Project\bin\Debug\Tiny_Compiler_Project.pdb
+D:\compiler project\Tiny_Compiler_Project\obj\Debug\Tiny_Compiler_Project.csproj.AssemblyReference.cache
